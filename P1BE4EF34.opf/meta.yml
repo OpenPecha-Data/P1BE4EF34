@@ -1,0 +1,270 @@
+id: P1BE4EF34
+initial_creation_type: input
+source_metadata:
+  title: Praise Series
+  language: fr
+  description: 'A selection of praises (Skt. stotra; Tib. bstod pa) to various Buddhist
+    deities and prominent masters (arranged according to subject):'
+  volume:
+    349bc3ea0519486687437b8d3a4f8a7a:
+      title: Verses of Homage to the Buddhas and Bodhisattvas Together with their
+        Mantras
+      parent: General
+    0b959e9410574344b706d4aa21c44abe:
+      title: 'The Sun that Causes the Lotus of Intelligence to Bloom: In Praise of
+        the Lineage of Gurus for the Noble Abhidharma'
+      parent: Abhidharma Lineage
+    022e33fba67b4953b62b6d3f8d8f76d9:
+      title: Verses in Praise of the Protector Akṣobhya
+      parent: Akṣobhya
+    6314db3dc9904d29a881eeac6f34d134:
+      title: Praise of Noble Avalokiteśvara
+      parent: Avalokiteśvara
+    0d18e80e012e4f858ad49f0ebd341aaf:
+      title: Praise of Noble Avalokiteśvara (Tengyur version)
+      parent: Avalokiteśvara
+    b05cfe7890994865b60346921794ec5c:
+      title: Short Praise of the Buddha's Deeds
+      parent: Buddha Śākyamuni
+    ae69fac80509480abcde9a08fdbc46c2:
+      title: Praise of the Twelve Acts of the Buddha
+      parent: Buddha Śākyamuni
+    6168c99c0a944930b652601b5656a944:
+      title: In Praise of the Twelve Deeds of the Buddha
+      parent: Buddha Śākyamuni
+    3ad36f97fb0348cc8fb4ed02634650d8:
+      title: 'Praise of the Buddha: With Skilful Means & Compassion...'
+      parent: Buddha Śākyamuni
+    0126d79229004556937ae05ed429cd0e:
+      title: 'Introduction to the Buddha’s Words: A Praise and Aspiration Related
+        to the Words of the Victorious One'
+      parent: Buddha's Words
+    353542a953894682a5d78894cbb6db9d:
+      title: 'A Beautiful Lotus Garland: In Praise of the Omniscient Lord of Dharma
+        Butön Rinchen Drup'
+      parent: Butön Rinchen Drup
+    8804fbe26b1149d9926a197871b1d26a:
+      title: 'The Swift Infusion of Blessings: In Praise of the Mahāpaṇḍita Candragomin'
+      parent: Candragomin
+    022856dfb69a438bbee1e95b1592410a:
+      title: 'The Melodious Song of Joy: In Praise of the Master Candrakīrti'
+      parent: Candrakīrti
+    0bfc7f43581d4b638d607b73e0d2208b:
+      title: Praise of Candrakīrti
+      parent: Candrakīrti
+    f6eda9ef8e904bc5b872e6d5da15d441:
+      title: 'The Excellent Bilva Tree of Auspiciousness: Praise and Prayer to Terchen
+        Chokgyur Lingpa'
+      parent: Chokgyur Dechen Lingpa
+    5521c8fc8508486cb2cf85584d19e3f8:
+      title: A Homage to His Holiness the Dalai Lama
+      parent: Fourteenth Dalai Lama
+    e90e6a29bc6f4b62a2c48f49af62185f:
+      title: Verses of Homage
+      parent: Fourteenth Dalai Lama
+    0b10754d1f6b40d3abe1c52eb8c34848:
+      title: Praise of Kunga Yeshe, Great Being and Master of Extensive Scriptural
+        Traditions
+      parent: Ga Rabjampa Kunga Yeshe
+    9e67b6ae7bd041389e99b4830b2ea5c1:
+      title: 'Cloud Banks of Blessings: Praise and Prayer to the Vajradhara Ngawang
+        Lekpa'
+      parent: Gatön Ngawang Lekpa
+    f20e5dc6ace146c28e28ed9e62989df9:
+      title: 'Thunderous Melody: In Praise of the Omniscient Gorampa Sonam Senge'
+      parent: Gorampa Sonam Senge
+    193d098acea84304ac590fdbdd92827b:
+      title: In Praise of Padmākara, the Great Guru of Uḍḍiyāna
+      parent: Guru Padmasambhava
+    d4115759b6ab4c06aa82c3581b1e9b0a:
+      title: 'The Three Kāyas: Praises to the Great Master Padmasambhava'
+      parent: Guru Padmasambhava
+    c9383fe9710c421db49d27dfa6dbd563:
+      title: A Praise to the Lotus King
+      parent: Guru Padmasambhava
+    4eabd7440b1943b98b158eb61aee650a:
+      title: 'Fully Blossomed Learning and Contemplation: A Praise of the Great Spiritual
+        Friend Jamyang Gyaltsen'
+      parent: Jamyang Gyaltsen
+    bf6975bd1e9440e287c9b6a47cc51b4a:
+      title: In Praise of Jamyang Khyentse Wangpo
+      parent: Jamyang Khyentse Wangpo
+    5b1075b018d14ee6b67a1ab463ab695d:
+      title: 'The Bestowal of Supreme Blessings: Praise to the Vajradhara Loter Wangpo'
+      parent: Jamyang Loter Wangpo
+    0d77696360994a2fa35184a67899115a:
+      title: In Praise of Jigme Lingpa’s Pre-Eminence
+      parent: Jigme Lingpa
+    542185251f1f49fd82bfb398621645a1:
+      title: 'Sweet Melody to Delight the Glorious Deity: In Praise of Śrī Kālīdevī'
+      parent: Kālīdevī
+    58f7453da99c4a0d807ebc92ad195dab:
+      title: 'Beautiful Adornment of the Earth: In Praise of Kṣitigarbha'
+      parent: Kṣitigarbha
+    8e72c3b09ce24e9e9d82ba60d192f075:
+      title: In Praise of Longchenpa – The Greatness of the Omniscient Longchen Rabjam
+      parent: Longchen Rabjam
+    633999bdc7b84e14bcab8e88f5955fc9:
+      title: In Praise of the Lords of the Three Families
+      parent: Lords of the Three Families
+    a30a173ded944c8697c520d4ea1c35d8:
+      title: 'Cutting through the Four Demons in Absolute Space: A Praise of Machik
+        Labdrön'
+      parent: Machik Labdrön
+    e428cea552fe40d8b8defb5cd875e7e4:
+      title: 'Music to Delight the Ḍākinī: A Praise to the Deathless Mandāravā'
+      parent: Mandāravā
+    4ccba279c2f84f2e986594a56a88f1c8:
+      title: 'The Fresh Saffron Flower: In Praise of Venerable Mañjughoṣa'
+      parent: Mañjuśrī
+    f9f3207a14ed4a42aaaf091aef1ffdb5:
+      title: 'The Light of Wisdom: Praise to Mañjuśrī'
+      parent: Mañjuśrī
+    43e4942a1ea84d528fd2985cabde37a0:
+      title: 'The Lute of Vajra Harmony: Praise to the Protector Mañjuśrī'
+      parent: Mañjuśrī
+    770a8eeebb28450c9502fbd83ffcfc3a:
+      title: 'The Swift Infusion of Blessings: In Praise of Mañjughoṣa'
+      parent: Mañjuśrī
+    c65d6699d5a24cef8f211d3e70b72d24:
+      title: 'In Praise of Mañjuśrī: Increasing Intelligence to the Full'
+      parent: Mañjuśrī
+    505615de34da48ac880b7888fce73d00:
+      title: 'In Praise of Mañjuśrī: The Great Treasure of Blessings'
+      parent: Mañjuśrī
+    dab2964fe3dc4fc8aa6c839b0d5621a0:
+      title: In Praise of the Protector Mañjughoṣa
+      parent: Mañjuśrī
+    6d806d8ac1674a90b7a394101d53e959:
+      title: Ultimate Praise of the Noble and Venerable Mañjuśrī
+      parent: Mañjuśrī
+    3a34fd78143541e4be5745b089beebda:
+      title: Praise to Mañjughoṣa
+      parent: Mañjuśrī
+    f7f84f68d36a489db335df44187ad45a:
+      title: The Praise to Mañjuśrī—Glorious Wisdom's Excellent Qualities
+      parent: Mañjuśrī
+    b3bfb33f0a4f46ed93ea542410c39e46:
+      title: In Praise of the Goddess Mārīcī (Özerchenma)
+      parent: Mārīcī
+    60a34e7f4b4f4c589ea35e7a58fab342:
+      title: In Praise of Jetsün Mila Shepa Dorje
+      parent: Milarepa
+    c378f355686743e99a765b0c6e2e1d4f:
+      title: 'The Definitive Ascertainment of Tantra: In Praise of the Great Master
+        Milarepa'
+      parent: Milarepa
+    87e056ae98054cceadaf65eac49ae1ae:
+      title: Homage to Milarepa
+      parent: Milarepa
+    1ab9779ac64940c8a88d0a22f83a36fd:
+      title: 'The Purifier of Ethical Discipline: An Aspirational Praise to Vajradhara
+        Kunga Zangpo'
+      parent: Ngorchen Kunga Zangpo
+    6b0ddbd953cf41059ad2ca96d4da542e:
+      title: In Praise of Patrul Orgyen Jigme Chökyi Wangpo
+      parent: Patrul Rinpoche
+    c2668602d76f47e29ca3bdeb5344505d:
+      title: In Praise of Sönam Palge
+      parent: Rogza Sönam Palge
+    3559f57663ed46bb988e88caa8784a8d:
+      title: A Short Guide to Yangleshö in Nepal
+      parent: Sacred Places
+    65351829a3d54749a52d80907f8e1b01:
+      title: 'A Song of Perfect Joy: In Praise of the Sacred Sites of Rājgṛha, Vulture
+        Peak and Nālandā'
+      parent: Sacred Places
+    a1eb71d896b84ba2af196c30bc9e7447:
+      title: In Praise of Devāvatāra, Site of Buddha's Descent from Heaven
+      parent: Sacred Places
+    be918ddb14ff4e7eb2a73d585267f75b:
+      title: In Praise of Kuśinagara
+      parent: Sacred Places
+    eaac8bce2f5d4a1da687c761ef109570:
+      title: In Praise of Vārāṇasī, the Supreme Place
+      parent: Sacred Places
+    888c9be94b674707b7f93349adb65ad0:
+      title: In Praise of Yangleshö in Nepal
+      parent: Sacred Places
+    c3085efae8fd4c6881f63c727d4893cc:
+      title: In Praise of the Great Indian City of Kolkata
+      parent: Sacred Places
+    1e571decfc2e47fa847e15bcddcd192d:
+      title: Offering Clouds to Delight the Victorious Ones, Combining A Praise of
+        Redreng with a Prayer of Aspiration
+      parent: Sacred Places
+    8f9116efa3e9418daa2b2f0746680338:
+      title: Praise and Prayer to Kharchu, Great Sacred Place of Lhodrak
+      parent: Sacred Places
+    74f6a758bd854697a68598b78429a315:
+      title: 'The Conquerors'' Delight: In Praise of Śrāvastī'
+      parent: Sacred Places
+    0c10736aabf3432d8734bd2e44968776:
+      title: 'The White Lotus Garland of Immortality: In Praise of the Supreme Vajra
+        Place, Tso Pema (Lotus Lake)'
+      parent: Sacred Places
+    df1f659d0ce24bd9bd8721aabc035674:
+      title: 'The White Lotus: In Praise of Lumbinī'
+      parent: Sacred Places
+    973c9888295845e792bd8a911e8417b8:
+      title: 'Melodious Sound: In Praise of Vulture Peak Mountain'
+      parent: Sacred Places
+    6710461ceee74593b4b317f4d5ac866c:
+      title: Praise to Sakya Paṇḍita
+      parent: Sakya Paṇḍita
+    10b11f2bd1ad4788b921b16baa9b6306:
+      title: 'Gentle Splendour: Praises to the Great Abbot Śāntarakṣita'
+      parent: Śāntarakṣita
+    0031237b61094bc89f9f40e601ca7cf9:
+      title: 'Ripples on the Ganges: In Praise of the Goddess Sarasvatī'
+      parent: Sarasvatī
+    9c239353965947f28af707784fd092a2:
+      title: 'The Melodious Song of Vajra Harmony: In Praise of Red Sarasvatī'
+      parent: Sarasvatī
+    7a3e53011e9f49e593ee6bcbc40f72eb:
+      title: 'The Sweet Sound of Perfect Joy: In Praise of the Goddess Sarasvatī'
+      parent: Sarasvatī
+    3557647e4ffc4383b6d78af040faf42a:
+      title: 'Intensely Brilliant Wisdom: In Praise of the Great Elder Smṛtijñāna'
+      parent: Smṛtijñānakīrti
+    38a4eab36c094fcb803afb3d471330f3:
+      title: The Praise to Tārā with Twenty-One Verses of Homage and The Excellent
+        Benefits of Reciting the Praise
+      parent: Tārā
+    2470deb62cab4cbab9d8554396f9792d:
+      title: 'The Fulfilment of All Aspirations: In Praise of Noble Tārā'
+      parent: Tārā
+    e40440dcab2a4cae9dfd65aa591b7ef8:
+      title: 'Flower of Faith: In Praise of Tāranātha, Lord of Secrets'
+      parent: Tāranātha
+    e1c78cbdb2a84c4dbf1d57e2f2e2a411:
+      title: 'A Blossoming of the Intellect: In Praise of the Great Pioneer Thönmi
+        Sambhoṭa'
+      parent: Thönmi Sambhoṭa
+    25cf96cc86b245e5bd450256e047895e:
+      title: In Praise of the Three Jewels
+      parent: Three Jewels
+    23300b99454c462abc461231ea07e15e:
+      title: 'Snowy Lands: Praises to the Great Dharma Emperor Tri Songdetsen'
+      parent: Tri Songdetsen
+    f9580fe86c0d4675acc1e51318fb9d22:
+      title: 'The Flower of Faith: Praise to the Great Lord Guru Tsongkhapa'
+      parent: Tsongkhapa Lobzang Drakpa
+    803935d9a13b4b9c83221d0df36eea65:
+      title: A Song of Innermost Praise to Vajrasattva
+      parent: Vajrasattva
+    cd071e21f1ea488b8a9445e33352d0fb:
+      title: 'Wish-Granting Provision of Twofold Accomplishment: A Praise of Vajrasattva'
+      parent: Vajrasattva
+    b56ba797b7994ed3b09e9b5db5744ec5:
+      title: In Praise of Glorious Vajrasattva
+      parent: Vajrasattva
+    f20f3c167ab34c6c84a5a47fbd6f7a87:
+      title: 'The Staircase Ascending to Khecara: A Praise in Accord with the Arrangement
+        of the Realm of Holy Nāro Khecarī'
+      parent: Vajrayoginī
+    2fe684c467c94f2195785d25154817f0:
+      title: 'The Hero''s Bellowing Laughter: In Praise of the Lord of Yogins'
+      parent: Virūpa
+created_at: '2022-03-01T05:11:17.797516'
+last_modified_at: '2022-03-01T05:11:17.797519'
